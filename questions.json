@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "text": "Qual é o prazo padrão para liquidação de câmbio pronto?",
+    "options": [
+      { "value": "a", "label": "D+2 dias úteis" },
+      { "value": "b", "label": "D+1 dia útil" },
+      { "value": "c", "label": "No mesmo dia" },
+      { "value": "d", "label": "D+3 dias úteis" }
+    ],
+    "correct": "a",
+    "feedback": "O câmbio pronto deve ser liquidado em até D+2 dias úteis."
+  },
+  {
+    "id": "q2",
+    "text": "Qual operação antecipa recursos ao exportador em moeda nacional?",
+    "options": [
+      { "value": "a", "label": "Forfaiting" },
+      { "value": "b", "label": "ACC" },
+      { "value": "c", "label": "Leasing" },
+      { "value": "d", "label": "Hedge" }
+    ],
+    "correct": "b",
+    "feedback": "O ACC antecipa recursos ao exportador antes do embarque."
+  },
+  {
+    "id": "q3",
+    "text": "Quem pode registrar operações de câmbio no Bacen?",
+    "options": [
+      { "value": "a", "label": "Cliente" },
+      { "value": "b", "label": "Banco autorizado" },
+      { "value": "c", "label": "Corretora de valores" },
+      { "value": "d", "label": "Qualquer instituição financeira" }
+    ],
+    "correct": "b",
+    "feedback": "Somente bancos autorizados pelo Banco Central podem registrar operações de câmbio."
+  },
+  {
+    "id": "q4",
+    "text": "O que significa Finimp?",
+    "options": [
+      { "value": "a", "label": "Financiamento à Importação" },
+      { "value": "b", "label": "Financiamento Internacional" },
+      { "value": "c", "label": "Fundo de Investimento Monetário" },
+      { "value": "d", "label": "Financiamento Imobiliário" }
+    ],
+    "correct": "a",
+    "feedback": "Finimp é a sigla para Financiamento à Importação, utilizado para pagar fornecedores estrangeiros."
+  },
+  {
+    "id": "q5",
+    "text": "Qual sistema substituiu o antigo RDE-ROF para registro de operações externas?",
+    "options": [
+      { "value": "a", "label": "Sisbacen" },
+      { "value": "b", "label": "SCE-Crédito" },
+      { "value": "c", "label": "Swift" },
+      { "value": "d", "label": "SPB" }
+    ],
+    "correct": "b",
+    "feedback": "O SCE-Crédito é o novo sistema para registro de operações externas, substituindo o RDE-ROF."
+  }
+]
